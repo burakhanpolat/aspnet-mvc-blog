@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = App.Web.Mvc
+build_property.RootNamespace = App.Web.Mvc
+build_property.ProjectDir = C:\Users\Burak\OneDrive\Masaüstü\asp-net\aspnet-mvc-blog-main\AspNetMvcBlog\App.Web.Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Burak\OneDrive\Masaüstü\asp-net\aspnet-mvc-blog-main\AspNetMvcBlog\App.Web.Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/AdminBlog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CbG9nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/AdminCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/AdminHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Ib21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/AdminPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/AdminSetting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TZXR0aW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/AdminUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Auth/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Blog/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Blog/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Page/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Burak/OneDrive/Masaüstü/asp-net/aspnet-mvc-blog-main/AspNetMvcBlog/App.Web.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-srnn7coemv
